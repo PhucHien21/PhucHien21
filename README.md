@@ -1,4 +1,6 @@
-###👋**Hello, I'm Hien Nguyen (John)**
+### 👋Hello, I'm Hien Nguyen (John)
+
+---
 
 I'm a student from Vaasa University of Applied Science. I have basic skill in HTML, CSS, Javascript and React, and I want to study more to become a full-stack developer.
 
